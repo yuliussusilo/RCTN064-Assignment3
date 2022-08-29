@@ -33,15 +33,15 @@ nav {
   color: white;
 }
 
-.html {width: 70%; background-color: #04AA6D;}
-.css {width: 70%; background-color: #2196F3;} 
-.js {width: 65%; background-color: #f44336;} 
-.java {width: 80%; background-color: #808080;} 
+.html {width: 50%; background-color: #2afc0f;}
+.css {width: 50%; background-color: #2afc0f;} 
+.js {width: 50%; background-color: #2afc0f;} 
+.java {width: 90%; background-color: #2afc0f;} 
 
 li:hover{
   color: red;
 }
 
 h1, .about {
-  background: linear-gradient(to right, #00AAFF, #00FF6C);
+  background: linear-gradient(to right, #ff0000, #00FF6C, #0400ff);
 }
